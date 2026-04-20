@@ -7,7 +7,7 @@ import {ReactComponent as InstagramIcon } from './img/instagram.svg';
 function Footer() {
   return (
     <footer className="main-footer">
-    Copyright © 2022. Paulo Madson, Rio Grande, Rio Grande Do Sul -  Todos os direitos reservados.
+    Copyright © 2026. Paulo Madson, Rio Grande, Rio Grande Do Sul -  Todos os direitos reservados.
       <div className="footer-icons">
         <a href="https://www.youtube.com/channel/UCEvQ4VKN6d5SrWx6AiSCQOA" target="_new">
        <YouTubeIcon />
@@ -15,7 +15,7 @@ function Footer() {
         <a href="https://www.linkedin.com/in/paulo-madson-6475a2182" target="_new">
         <LinkedinIcon />
         </a>
-        <a href="https://www.instagram.com/paulo_madson77/?hl=pt-br" target="_new">
+        <a href="https://www.instagram.com/http_silva77/?hl=pt-br" target="_new">
         <InstagramIcon />
         </a>        
       </div>
